@@ -88,7 +88,7 @@ span{
 .navbar a{
   font-size: clamp(1.4rem, 1.8vw, 1.8rem);
   color: var(--main-color);
-  font-weight: 500;
+  font-weight: 501;
   transition: 0.3s ease-in-out;
   border-bottom: 3px solid transparent;
 }
