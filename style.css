@@ -70,14 +70,7 @@ span{
   background-clip: text;
   color: transparent;
 }
-/* .navbar a{
-  font-size: 2.0rem;
-  color: var(--main-color);
-  margin-left: 4rem;
-  font-weight: 501;
-  transition: 0.3s ease-in-out;
-  border-bottom: 3px solid transparent;
-} */
+
  .navbar{
   display: flex;
   align-items: center;
@@ -88,7 +81,7 @@ span{
 .navbar a{
   font-size: clamp(1.4rem, 1.8vw, 1.8rem);
   color: var(--main-color);
-  font-weight: 501;
+  font-weight: 600;
   transition: 0.3s ease-in-out;
   border-bottom: 3px solid transparent;
 }
